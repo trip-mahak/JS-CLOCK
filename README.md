@@ -1,2 +1,3 @@
 # JS-CLOCK
-clock using html, css and javascript
+Clock using html, css and javascript 
+Tutorial by 30 Day Vanilla JS Coding Challenge
